@@ -1,6 +1,6 @@
 # Sec Your AWS
 
-*Mostly* platform-specific tools and resources for securing your AWS environment. See the companion DevOps repository at [sec-your-devops](https://github.com/vigah/sec-your-devops)
+Platform-specific tools and resources for securing your AWS environment. See the companion DevOps repository at [sec-your-devops](https://github.com/vigah/sec-your-devops)
 
 - [Tools](#tools)
   - [IAM](#iam)
