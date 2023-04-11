@@ -10,7 +10,7 @@
   - [CI/CD](#cicd)
   - [Offensive](#offensive)
 - [Training & Lab Environments](#training--lab-environments)
-- [Additional Resources](#additional-resources))
+- [Additional Resources](#additional-resources)
 
 ## Tools
 
