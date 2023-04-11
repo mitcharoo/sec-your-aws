@@ -71,6 +71,11 @@ Platform-specific tools and resources for securing your AWS environment. See the
 - [LocalStack](https://github.com/localstack/localstack): Local AWS cloud emulator.
 - [S3 Game Galaxy](https://master.d2av1kz25zeu6f.amplifyapp.com/): A series of challenges to learn S3 features.
 
+## News & Social
+
+- [AWS Security Digest](https://app.mailbrew.com/zoph/aws-security-digest-HrkhwqNrwBBk): A weekly AWS security digest by [Victor Grenu](https://twitter.com/zoph).
+- [Last Week in AWS](https://www.lastweekinaws.com/newsletter/): Snarky takes on AWS news and announcements by [Corey Quinn](https://twitter.com/QuinnyPig).
+
 ## Additional Resources
 
 - [AWS Security Blog](https://aws.amazon.com/blogs/security/): Official announcements, product highlights, and walk-throughs. Optional mailing list.
