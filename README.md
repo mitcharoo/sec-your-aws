@@ -22,6 +22,7 @@ Platform-specific tools and resources for securing your AWS environment. See the
 - [Aaia](https://github.com/rams3sh/Aaia): AWS IAM visualizer and anomaly finder.
 - [aws-sso-reporter](https://github.com/onemorepereira/aws-sso-reporter): Uses the AWS SSO API to list all users, accounts, permission sets etc. and dumps it into a CSV file for additional parsing or viewing.
 - [awspx](https://github.com/FSecureLABS/awspx): A graph-based tool for visualizing effective access and resource relationships in AWS environments.
+- [IAM Access Key Report](https://github.com/aws-samples/iam-access-key-report): A tool to enumerate data about all active IAM access keys across an AWS Organization and enrich each key with account tag information.
 
 ### Secrets
 
