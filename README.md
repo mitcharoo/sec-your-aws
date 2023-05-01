@@ -44,6 +44,7 @@ Platform-specific tools and resources for securing your AWS environment. See the
 - [CDK-Dia](https://github.com/pistazie/cdk-dia): Automated diagrams of AWS CDK provisioned infrastructure.
 - [superwerker](https://github.com/superwerker/superwerker): A free, open-source solution that lets you quickly set up an AWS Cloud environment following best practices for security and efficiency.
 - [domain-protect](https://github.com/domain-protect/domain-protect): Discover and protect against subdomain takeover vulnerabilities in AWS & Cloudflare.
+- [SCPkit](https://github.com/aquia-inc/scpkit): A Python module to manage service control policies (SCPs).
 
 ### Observability
 
